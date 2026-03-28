@@ -4,26 +4,22 @@ spec_version: 0.1.0
 category: Coordination
 domain: teammd.dev
 priority: High
+volume: "Vol 1 — Core Agent Specs"
 maintained_by: TotalMarkdown.ai
 license: CC0 1.0 Universal
-canonical_repo: https://github.com/totalmarkdown/team.md
-part_of: https://github.com/totalmarkdown/agent-md-specs
+tier: core
 ---
+
+> **Canonical repository:**
+> [totalmarkdown/team.md](https://github.com/totalmarkdown/team.md)
+> This copy is included in agent-md-specs for cross-reference.
+> For contributions to this specific spec, use the canonical repo.
 
 # TEAM.md
 
 **Category:** Coordination
 **Domain:** teammd.dev
 **Priority:** High
-**Version:** 0.1.0
-
-> This is the canonical repository for the TEAM.md specification.
-> Also part of [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs)
-> — the comprehensive library of 178 agent configuration file type specs.
-
-## TEAM.md
-**Category:** Coordination  
-**Domain:** teammd.dev (register)  
 **Version:** 0.1.0
 
 ### Purpose
@@ -90,9 +86,19 @@ updated: date
 
 ---
 
+## Related Specs
+
+| Spec | Relationship |
+|------|-------------|
+| BUDGET.md | Cost controls and spending limits |
+| CREW.md | Working group structure |
+| DELEGATION.md | Authority chain and authorization |
+| ESCALATION.md | Human-in-the-loop triggers and contacts |
+| MEMORY.md | Individual agent memory governance |
+| ORG.md | Organization-wide fleet configuration |
+| SHAREDCONTEXT.md | Multi-agent shared memory pool |
 
 ---
 
-*Maintained by TotalMarkdown.ai*
 *Part of [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs)*
-*License: CC0 1.0 Universal (Public Domain)*
+*Maintained by TotalMarkdown.ai · License: CC0 1.0 Universal*
