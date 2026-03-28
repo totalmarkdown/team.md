@@ -15,6 +15,14 @@
 
 ---
 
+
+> **Canonical Source:** This spec is maintained in the main
+> [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs) repository.
+> This repo is an auto-synced mirror for easy discovery and download.
+> To report issues or submit changes, please open a PR or issue on the
+> [main repository](https://github.com/totalmarkdown/agent-md-specs).
+
+
 ## What is TEAM.md?
 
 TEAM.md defines the structure and protocols for multi-agent collaboration. When you need two or more AI agents to work together on a task, TEAM.md specifies who does what, how they communicate, and how they resolve conflicts.
