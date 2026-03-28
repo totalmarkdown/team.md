@@ -19,7 +19,7 @@ part_of: https://github.com/totalmarkdown/agent-md-specs
 
 > This is the canonical repository for the TEAM.md specification.
 > Also part of [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs)
-> — the comprehensive library of 153 agent configuration file type specs.
+> — the comprehensive library of 178 agent configuration file type specs.
 
 ## TEAM.md
 **Category:** Coordination  
