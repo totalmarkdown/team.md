@@ -8,7 +8,10 @@ volume: "Vol 1 — Core Agent Specs"
 maintained_by: TotalMarkdown.ai
 license: CC0 1.0 Universal
 tier: core
+spec_type: static
 ---
+> **Static Configuration** — committed to your repository
+
 
 > **Canonical repository:**
 > [totalmarkdown/team.md](https://github.com/totalmarkdown/team.md)
@@ -104,7 +107,7 @@ Governed by CIRCUITBREAKER.md at the team level.
 _Measurable targets: see KPI.md. Service commitments: see SLA.md._
 ```
 
-### Example use cases
+### Common Team Patterns
 - Customer support team (triage → resolve → escalate → follow-up)
 - Content pipeline (research → draft → edit → publish → analyze)
 - Security audit team (scan → analyze → report → remediate)
